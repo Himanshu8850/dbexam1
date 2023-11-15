@@ -1,0 +1,11 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"cd C:\\Users\\himanshu\\Desktop\\tictac\\tictac && npm start\""
+  },
+  "author": "",
+  "license": "ISC"
+}
